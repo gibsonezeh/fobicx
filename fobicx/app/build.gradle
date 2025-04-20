@@ -1,10 +1,10 @@
-apply plugin: "com.android.application"
+apply plugin: "com.gibson.fobicx"
 
 android {
-    namespace 'com.google.android.gms.example.appopenexample'
+    namespace 'com.google.android.gms.gibson.fobicx
     compileSdkVersion 34
     defaultConfig {
-        applicationId "com.google.android.gms.example.appopenexample"
+        applicationId "com.google.android.gms.gibson.fobicx"
         minSdkVersion 23
         multiDexEnabled true
         targetSdkVersion 34
