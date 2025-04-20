@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
   <application
-      android:name="com.google.android.gms.example.appopenexample.MyApplication"
+      android:name="com.google.android.gms.example.fobicx.MyApplication"
       android:allowBackup="true"
       android:icon="@mipmap/ic_launcher"
       android:label="@string/app_name"
@@ -11,10 +11,10 @@
       android:taskAffinity=""
       android:theme="@style/AppTheme">
 
-    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <!-- Sample AdMob App ID: ca-app-pub-8105096464664625~6272109317 -->
     <meta-data
         android:name="com.google.android.gms.ads.APPLICATION_ID"
-        android:value="ca-app-pub-3940256099942544~3347511713" />
+        android:value="ca-app-pub-8105096464664625~6272109317" />
 
     <activity
         android:name=".SplashActivity"
